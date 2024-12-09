@@ -1,0 +1,504 @@
+Domain Data:
+Domain: amazon.com
+    Geo locations: ['Ashburn, Virginia, United States']
+    Hsts: True
+    Http server: Server
+    Insecure http: True
+    Ipv4 addresses: ['205.251.242.103', '52.94.236.248', '54.239.28.85']
+    Ipv6 addresses: []
+    Rdns names: ['s3-console-us-standard.console.aws.amazon.com']
+    Redirect to https: True
+    Root ca: DigiCert Inc
+    Rtt range: [19, 21]
+    Scan time: 1733114254.0878787
+    Tls versions: ['TLSv1.1', 'TLSv1.2', 'TLSv1.3', 'TLSv1.0']
+Domain: asee.org
+    Geo locations: []
+    Hsts: False
+    Http server: Microsoft-Azure-Application-Gateway/v2
+    Insecure http: True
+    Ipv4 addresses: ['57.152.51.153']
+    Ipv6 addresses: []
+    Rdns names: []
+    Redirect to https: True
+    Root ca: The USERTRUST Network
+    Rtt range: [22, 22]
+    Scan time: 1733114648.9356217
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: auditoryneuroscience.com
+    Geo locations: ['Central, Central and Western District, Hong Kong']
+    Hsts: False
+    Http server: Apache/2.4.58 (Ubuntu)
+    Insecure http: True
+    Ipv4 addresses: ['203.80.233.62']
+    Ipv6 addresses: []
+    Rdns names: ['203080233062.static.ctinets.com']
+    Redirect to https: False
+    Root ca: Internet Security Research Group
+    Rtt range: [211, 211]
+    Scan time: 1733114620.7365415
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: clocktab.com
+    Geo locations: []
+    Hsts: False
+    Http server: cloudflare
+    Insecure http: True
+    Ipv4 addresses: ['104.21.87.176', '172.67.170.124']
+    Ipv6 addresses: ['2606:4700:3035::ac43:aa7c', '2606:4700:3033::6815:57b0']
+    Rdns names: []
+    Redirect to https: True
+    Root ca: Google Trust Services LLC
+    Rtt range: [3, 4]
+    Scan time: 1733114600.82867
+    Tls versions: ['TLSv1.1', 'TLSv1.2', 'TLSv1.3', 'TLSv1.0']
+Domain: en.wikipedia.org
+    Geo locations: []
+    Hsts: True
+    Http server: HAProxy
+    Insecure http: True
+    Ipv4 addresses: ['208.80.154.224', '185.15.59.224']
+    Ipv6 addresses: ['2a02:ec80:300:ed1a::1', '2620:0:861:ed1a::1']
+    Rdns names: ['text-lb.esams.wikimedia.org', 'text-lb.eqiad.wikimedia.org']
+    Redirect to https: True
+    Root ca: Internet Security Research Group
+    Rtt range: [24, 94]
+    Scan time: 1733114192.7948754
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: facebook.com
+    Geo locations: []
+    Hsts: True
+    Http server: proxygen-bolt
+    Insecure http: True
+    Ipv4 addresses: ['31.13.66.35', '157.240.251.35', '157.240.249.35', '57.144.174.1', '157.240.254.35']
+    Ipv6 addresses: ['2a03:2880:f175:81:face:b00c:0:25de', '2a03:2880:f103:83:face:b00c:0:25de', '2a03:2880:f176:181:face:b00c:0:25de', '2a03:2880:f357:1:face:b00c:0:25de', '2a03:2880:f175:181:face:b00c:0:25de']
+    Rdns names: ['edge-star-mini-shv-01-fra5.facebook.com', 'edge-star-mini-shv-01-iad3.facebook.com', 'edge-star-mini-shv-03-ord5.facebook.com', 'edge-star-mini-shv-02-ord5.facebook.com', 'edge-star-mini-shv-01-ord5.facebook.com']
+    Redirect to https: True
+    Root ca: DigiCert Inc
+    Rtt range: [3, 110]
+    Scan time: 1733114234.037004
+    Tls versions: ['TLSv1.1', 'TLSv1.2', 'TLSv1.3', 'TLSv1.0']
+Domain: fandom.com
+    Geo locations: []
+    Hsts: False
+    Http server: Varnish
+    Insecure http: True
+    Ipv4 addresses: ['199.232.212.194', '199.232.208.194']
+    Ipv6 addresses: []
+    Rdns names: []
+    Redirect to https: True
+    Root ca: GlobalSign
+    Rtt range: [5, 5]
+    Scan time: 1733114335.8935623
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: gradeinflation.com
+    Geo locations: ['Victoria, British Columbia, Canada']
+    Hsts: False
+    Http server: nginx
+    Insecure http: True
+    Ipv4 addresses: ['51.79.45.180']
+    Ipv6 addresses: []
+    Rdns names: ['gw1.ahs5.r4l.com']
+    Redirect to https: True
+    Root ca: Internet Security Research Group
+    Rtt range: [19, 19]
+    Scan time: 1733114670.398588
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: illinois.edu
+    Geo locations: ['Champaign, Illinois, United States']
+    Hsts: False
+    Http server: Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7
+    Insecure http: True
+    Ipv4 addresses: ['130.126.157.20']
+    Ipv6 addresses: ['2620:0:e00:4206::14']
+    Rdns names: ['alma.techservices.illinois.edu']
+    Redirect to https: True
+    Root ca: Internet Security Research Group
+    Rtt range: [8, 8]
+    Scan time: 1733114559.5539548
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: imdb.com
+    Geo locations: ['Ashburn, Virginia, United States']
+    Hsts: True
+    Http server: Server
+    Insecure http: True
+    Ipv4 addresses: ['52.94.225.248', '52.94.237.74', '52.94.228.167']
+    Ipv6 addresses: []
+    Rdns names: []
+    Redirect to https: True
+    Root ca: Amazon
+    Rtt range: [19, 20]
+    Scan time: 1733114314.320298
+    Tls versions: ['TLSv1.1', 'TLSv1.2', 'TLSv1.3', 'TLSv1.0']
+Domain: instagram.com
+    Geo locations: []
+    Hsts: True
+    Http server: proxygen-bolt
+    Insecure http: True
+    Ipv4 addresses: ['157.240.254.174', '31.13.66.174', '57.144.174.34', '157.240.249.174', '157.240.253.174']
+    Ipv6 addresses: ['2a03:2880:f357:22:face:b00c:0:4420', '2a03:2880:f275:e9:face:b00c:0:4420', '2a03:2880:f203:e5:face:b00c:0:4420', '2a03:2880:f277:e2:face:b00c:0:4420', '2a03:2880:f275:1e9:face:b00c:0:4420']
+    Rdns names: ['instagram-p42-shv-01-ord5.fbcdn.net', 'instagram-p42-shv-03-ord5.fbcdn.net', 'instagram-p42-shv-02-ord5.fbcdn.net', 'instagram-p42-shv-01-iad3.fbcdn.net', 'instagram-p42-shv-02-fra5.fbcdn.net']
+    Redirect to https: True
+    Root ca: DigiCert Inc
+    Rtt range: [3, 106]
+    Scan time: 1733114395.686824
+    Tls versions: ['TLSv1.1', 'TLSv1.2', 'TLSv1.3', 'TLSv1.0']
+Domain: it.eecs.northwestern.edu
+    Geo locations: ['Chicago, Illinois, United States']
+    Hsts: False
+    Http server: Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k
+    Insecure http: True
+    Ipv4 addresses: ['129.105.5.142']
+    Ipv6 addresses: []
+    Rdns names: ['it.ece.northwestern.edu']
+    Redirect to https: False
+    Root ca: Unspecified
+    Rtt range: [2, 2]
+    Scan time: 1733114517.359588
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: kellogg.northwestern.edu
+    Geo locations: []
+    Hsts: False
+    Http server: Microsoft-IIS/10.0
+    Insecure http: True
+    Ipv4 addresses: ['165.124.147.150']
+    Ipv6 addresses: []
+    Rdns names: ['www.kellogg.northwestern.edu']
+    Redirect to https: True
+    Root ca: The USERTRUST Network
+    Rtt range: [2, 2]
+    Scan time: 1733114476.197324
+    Tls versions: ['TLSv1.2']
+Domain: kli.org
+    Geo locations: []
+    Hsts: False
+    Http server: cloudflare
+    Insecure http: True
+    Ipv4 addresses: ['104.21.4.169', '188.114.96.1', '188.114.97.1', '172.67.132.72']
+    Ipv6 addresses: ['2606:4700:3035::ac43:8448', '2a06:98c1:3121::1', '2606:4700:3033::6815:4a9', '2a06:98c1:3120::1']
+    Rdns names: []
+    Redirect to https: True
+    Root ca: Google Trust Services LLC
+    Rtt range: [4, 4]
+    Scan time: 1733114734.696184
+    Tls versions: ['TLSv1.1', 'TLSv1.2', 'TLSv1.3', 'TLSv1.0']
+Domain: mccormick.northwestern.edu
+    Geo locations: []
+    Hsts: False
+    Http server: Apache/2.4.41 (Ubuntu)
+    Insecure http: True
+    Ipv4 addresses: ['165.124.149.20']
+    Ipv6 addresses: []
+    Rdns names: ['davinci20.tech.northwestern.edu']
+    Redirect to https: True
+    Root ca: The USERTRUST Network
+    Rtt range: [2, 2]
+    Scan time: 1733114455.7593188
+    Tls versions: ['TLSv1.2']
+Domain: northwestern.edu
+    Geo locations: []
+    Hsts: False
+    Http server: BigIP
+    Insecure http: True
+    Ipv4 addresses: ['129.105.136.48']
+    Ipv6 addresses: []
+    Rdns names: ['cnair.northwestern.edu', 'evcommon-caesar-vip.northwestern.edu']
+    Redirect to https: True
+    Root ca: The USERTRUST Network
+    Rtt range: [2, 2]
+    Scan time: 1733114435.6858797
+    Tls versions: ['TLSv1.1', 'TLSv1.2', 'TLSv1.0']
+Domain: pinterest.com
+    Geo locations: []
+    Hsts: True
+    Http server: None
+    Insecure http: True
+    Ipv4 addresses: ['151.101.128.84', '151.101.192.84', '151.101.64.84', '151.101.0.84']
+    Ipv6 addresses: []
+    Rdns names: []
+    Redirect to https: True
+    Root ca: DigiCert Inc
+    Rtt range: [5, 6]
+    Scan time: 1733114355.358715
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: pmichaud.com
+    Geo locations: []
+    Hsts: False
+    Http server: Apache
+    Insecure http: True
+    Ipv4 addresses: ['23.254.203.248']
+    Ipv6 addresses: []
+    Rdns names: ['hwsrv-233708.hostwindsdns.com']
+    Redirect to https: False
+    Root ca: Internet Security Research Group
+    Rtt range: [24, 24]
+    Scan time: 1733114712.733126
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: reddit.com
+    Geo locations: []
+    Hsts: False
+    Http server: snooserv
+    Insecure http: True
+    Ipv4 addresses: ['151.101.193.140', '151.101.129.140', '151.101.1.140', '151.101.65.140']
+    Ipv6 addresses: ['2a04:4e42:600::396', '2a04:4e42:400::396', '2a04:4e42::396', '2a04:4e42:200::396']
+    Rdns names: []
+    Redirect to https: False
+    Root ca: DigiCert Inc
+    Rtt range: [5, 6]
+    Scan time: 1733114294.7119997
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: spacejam.com
+    Geo locations: []
+    Hsts: True
+    Http server: Apache/2.4.62 () OpenSSL/1.0.2k-fips
+    Insecure http: True
+    Ipv4 addresses: ['99.83.180.228', '75.2.104.223']
+    Ipv6 addresses: []
+    Rdns names: ['a259cf76d74e1f65f.awsglobalaccelerator.com']
+    Redirect to https: True
+    Root ca: GlobalSign
+    Rtt range: [3, 3]
+    Scan time: 1733114691.1644304
+    Tls versions: ['TLSv1.1', 'TLSv1.2']
+Domain: stevetarzia.com
+    Geo locations: ['Columbus, Ohio, United States']
+    Hsts: False
+    Http server: Apache/2.4.62 () OpenSSL/1.0.2k-fips PHP/5.4.16
+    Insecure http: True
+    Ipv4 addresses: ['3.143.61.245']
+    Ipv6 addresses: []
+    Rdns names: ['waffles.stevetarzia.com']
+    Redirect to https: True
+    Root ca: Internet Security Research Group
+    Rtt range: [12, 12]
+    Scan time: 1733114580.2165601
+    Tls versions: ['TLSv1.1', 'TLSv1.2', 'TLSv1.0']
+Domain: tripadvisor.com
+    Geo locations: []
+    Hsts: False
+    Http server: Varnish
+    Insecure http: True
+    Ipv4 addresses: ['151.101.66.28', '151.101.194.28', '151.101.2.28', '151.101.130.28']
+    Ipv6 addresses: []
+    Rdns names: []
+    Redirect to https: True
+    Root ca: GlobalSign
+    Rtt range: [5, 6]
+    Scan time: 1733114375.1577284
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: twitter.com
+    Geo locations: []
+    Hsts: True
+    Http server: tsa_b
+    Insecure http: True
+    Ipv4 addresses: ['104.244.42.129', '104.244.42.1', '104.244.42.193', '104.244.42.65']
+    Ipv6 addresses: []
+    Rdns names: []
+    Redirect to https: True
+    Root ca: DigiCert Inc
+    Rtt range: [22, 32]
+    Scan time: 1733114213.401244
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: uchicago.edu
+    Geo locations: []
+    Hsts: False
+    Http server: Apache
+    Insecure http: True
+    Ipv4 addresses: ['3.215.148.80']
+    Ipv6 addresses: []
+    Rdns names: ['ec2-3-215-148-80.compute-1.amazonaws.com']
+    Redirect to https: True
+    Root ca: The USERTRUST Network
+    Rtt range: [23, 23]
+    Scan time: 1733114537.4832036
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: users.cs.northwestern.edu
+    Geo locations: ['Chicago, Illinois, United States']
+    Hsts: False
+    Http server: Apache
+    Insecure http: True
+    Ipv4 addresses: ['129.105.44.20']
+    Ipv6 addresses: []
+    Rdns names: ['web1.cs.northwestern.edu']
+    Redirect to https: True
+    Root ca: The USERTRUST Network
+    Rtt range: [3, 3]
+    Scan time: 1733114496.2955463
+    Tls versions: ['TLSv1.2']
+Domain: walmart.com
+    Geo locations: []
+    Hsts: True
+    Http server: AkamaiGHost
+    Insecure http: True
+    Ipv4 addresses: ['23.203.41.111', '23.59.182.173', '23.220.132.133', '173.223.117.176', '23.220.218.23', '104.122.44.48']
+    Ipv6 addresses: []
+    Rdns names: ['a173-223-117-176.deploy.static.akamaitechnologies.com', 'a23-220-132-133.deploy.static.akamaitechnologies.com', 'a23-220-218-23.deploy.static.akamaitechnologies.com', 'a23-59-182-173.deploy.static.akamaitechnologies.com', 'a104-122-44-48.deploy.static.akamaitechnologies.com', 'a23-203-41-111.deploy.static.akamaitechnologies.com']
+    Redirect to https: True
+    Root ca: GlobalSign
+    Rtt range: [3, 101]
+    Scan time: 1733114415.729578
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: yelp.com
+    Geo locations: ['New York, New York, United States', 'Amsterdam, North Holland, Netherlands']
+    Hsts: False
+    Http server: Varnish
+    Insecure http: True
+    Ipv4 addresses: ['151.101.36.116', '146.75.36.116', '199.232.36.116', '146.75.80.116', '146.75.76.116']
+    Ipv6 addresses: []
+    Rdns names: []
+    Redirect to https: True
+    Root ca: DigiCert Inc
+    Rtt range: [5, 103]
+    Scan time: 1733114274.7111232
+    Tls versions: ['TLSv1.2', 'TLSv1.3']
+Domain: youtube.com
+    Geo locations: ['Mountain View, California, United States']
+    Hsts: True
+    Http server: ESF
+    Insecure http: True
+    Ipv4 addresses: ['172.217.2.46', '172.217.4.78', '142.251.16.136', '142.251.16.91', '142.250.191.238', '142.251.16.93', '142.250.190.110', '172.217.4.206', '142.251.16.190', '216.58.211.14']
+    Ipv6 addresses: ['2607:f8b0:4004:c17::5b', '2607:f8b0:4009:809::200e', '2607:f8b0:4009:802::200e', '2607:f8b0:4009:805::200e', '2a00:1450:400f:80a::200e', '2607:f8b0:4004:c17::88', '2607:f8b0:4009:80b::200e', '2607:f8b0:4009:808::200e', '2607:f8b0:4004:c17::be', '2607:f8b0:4009:814::200e', '2607:f8b0:4004:c17::5d']
+    Rdns names: ['ord37s35-in-f14.1e100.net', 'bl-in-f93.1e100.net', 'bl-in-f136.1e100.net', 'bl-in-f190.1e100.net', 'bl-in-f91.1e100.net', 'arn09s20-in-f14.1e100.net', 'ord38s32-in-f14.1e100.net', 'muc03s13-in-f14.1e100.net']
+    Redirect to https: True
+    Root ca: Google Trust Services LLC
+    Rtt range: [3, 111]
+    Scan time: 1733114172.6067274
+    Tls versions: ['TLSv1.1', 'TLSv1.2', 'TLSv1.3', 'TLSv1.0']
+
+
+RTTs:
++----------------------------+---------+---------+
+|           Domain           | Min RTT | Max RTT |
++============================+=========+=========+
+| it.eecs.northwestern.edu   | 2       | 2       |
++----------------------------+---------+---------+
+| kellogg.northwestern.edu   | 2       | 2       |
++----------------------------+---------+---------+
+| mccormick.northwestern.edu | 2       | 2       |
++----------------------------+---------+---------+
+| northwestern.edu           | 2       | 2       |
++----------------------------+---------+---------+
+| clocktab.com               | 3       | 4       |
++----------------------------+---------+---------+
+| facebook.com               | 3       | 110     |
++----------------------------+---------+---------+
+| instagram.com              | 3       | 106     |
++----------------------------+---------+---------+
+| spacejam.com               | 3       | 3       |
++----------------------------+---------+---------+
+| users.cs.northwestern.edu  | 3       | 3       |
++----------------------------+---------+---------+
+| walmart.com                | 3       | 101     |
++----------------------------+---------+---------+
+| youtube.com                | 3       | 111     |
++----------------------------+---------+---------+
+| kli.org                    | 4       | 4       |
++----------------------------+---------+---------+
+| fandom.com                 | 5       | 5       |
++----------------------------+---------+---------+
+| pinterest.com              | 5       | 6       |
++----------------------------+---------+---------+
+| reddit.com                 | 5       | 6       |
++----------------------------+---------+---------+
+| tripadvisor.com            | 5       | 6       |
++----------------------------+---------+---------+
+| yelp.com                   | 5       | 103     |
++----------------------------+---------+---------+
+| illinois.edu               | 8       | 8       |
++----------------------------+---------+---------+
+| stevetarzia.com            | 12      | 12      |
++----------------------------+---------+---------+
+| amazon.com                 | 19      | 21      |
++----------------------------+---------+---------+
+| gradeinflation.com         | 19      | 19      |
++----------------------------+---------+---------+
+| imdb.com                   | 19      | 20      |
++----------------------------+---------+---------+
+| asee.org                   | 22      | 22      |
++----------------------------+---------+---------+
+| twitter.com                | 22      | 32      |
++----------------------------+---------+---------+
+| uchicago.edu               | 23      | 23      |
++----------------------------+---------+---------+
+| en.wikipedia.org           | 24      | 94      |
++----------------------------+---------+---------+
+| pmichaud.com               | 24      | 24      |
++----------------------------+---------+---------+
+| auditoryneuroscience.com   | 211     | 211     |
++----------------------------+---------+---------+
+
+Root CAs:
++----------------------------------+------------+
+|             Root CA              | Occurrence |
++==================================+============+
+| DigiCert Inc                     | 7          |
++----------------------------------+------------+
+| The USERTRUST Network            | 6          |
++----------------------------------+------------+
+| Internet Security Research Group | 6          |
++----------------------------------+------------+
+| GlobalSign                       | 4          |
++----------------------------------+------------+
+| Google Trust Services LLC        | 3          |
++----------------------------------+------------+
+| Amazon                           | 1          |
++----------------------------------+------------+
+| Unspecified                      | 1          |
++----------------------------------+------------+
+
+HTTP Servers:
++---------------------------------------------------------+------------+
+|                       HTTP Server                       | Occurrence |
++=========================================================+============+
+| Varnish                                                 | 3          |
++---------------------------------------------------------+------------+
+| Apache                                                  | 3          |
++---------------------------------------------------------+------------+
+| Server                                                  | 2          |
++---------------------------------------------------------+------------+
+| cloudflare                                              | 2          |
++---------------------------------------------------------+------------+
+| proxygen-bolt                                           | 2          |
++---------------------------------------------------------+------------+
+| Microsoft-Azure-Application-Gateway/v2                  | 1          |
++---------------------------------------------------------+------------+
+| Apache/2.4.58 (Ubuntu)                                  | 1          |
++---------------------------------------------------------+------------+
+| HAProxy                                                 | 1          |
++---------------------------------------------------------+------------+
+| nginx                                                   | 1          |
++---------------------------------------------------------+------------+
+| Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7  | 1          |
++---------------------------------------------------------+------------+
+| Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k | 1          |
++---------------------------------------------------------+------------+
+| Microsoft-IIS/10.0                                      | 1          |
++---------------------------------------------------------+------------+
+| Apache/2.4.41 (Ubuntu)                                  | 1          |
++---------------------------------------------------------+------------+
+| BigIP                                                   | 1          |
++---------------------------------------------------------+------------+
+| None                                                    | 1          |
++---------------------------------------------------------+------------+
+| snooserv                                                | 1          |
++---------------------------------------------------------+------------+
+| Apache/2.4.62 () OpenSSL/1.0.2k-fips                    | 1          |
++---------------------------------------------------------+------------+
+| Apache/2.4.62 () OpenSSL/1.0.2k-fips PHP/5.4.16         | 1          |
++---------------------------------------------------------+------------+
+| tsa_b                                                   | 1          |
++---------------------------------------------------------+------------+
+| AkamaiGHost                                             | 1          |
++---------------------------------------------------------+------------+
+| ESF                                                     | 1          |
++---------------------------------------------------------+------------+
+
+Features Supported by Webservers:
++-------+-------+-------+-------+-------+-------+-------+-------+-------+------+
+| SSLv2 | SSLv3 | TLSv1 | TLSv1 | TLSv1 | TLSv1 | Plain | HTTPS | HSTS  | IPv6 |
+|       |       |  .0   |  .1   |  .2   |  .3   | HTTP  | Redir |       |      |
+|       |       |       |       |       |       |       |  ect  |       |      |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+======+
+| 0.00% | 0.00% | 32.14 | 35.71 | 100.0 | 78.57 | 100.0 | 85.71 | 35.71 | 28.5 |
+|       |       | %     | %     | 0%    | %     | 0%    | %     | %     | 7%   |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+------+
+
